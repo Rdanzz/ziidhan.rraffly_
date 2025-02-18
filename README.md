@@ -34,6 +34,6 @@ I'm a web developer. I'm enjoy what I do, share what I know and learn every day.
 
 ## Support
 
-[![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](zidhanraffly123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:zidhanraffly123@gmail.com)
 </br>
 If you like the same things as me, why not send me an email? Let's connect! ✨
