@@ -34,5 +34,6 @@ I'm a web developer. I'm enjoy what I do, share what I know and learn every day.
 
 ## Support
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6KX1A1) </br>
-If you like the same things as me, why not follow me? Let's connect! ✨
+[![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+</br>
+If you like the same things as me, why not send me an email? Let's connect! ✨
