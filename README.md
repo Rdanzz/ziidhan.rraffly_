@@ -21,6 +21,12 @@ I'm a web developer. I'm enjoy what I do, share what I know and learn every day.
 <a href="https://tailwindcss.com/">![Group 42](https://user-images.githubusercontent.com/91236883/235284489-e5bb1614-f3ca-4c98-b2f1-effeba51f8f0.svg)</a>
 <a href="https://www.php.net/">![Group 43](https://user-images.githubusercontent.com/91236883/235284673-e25375fa-3d10-4b0c-80b2-3bc2d6070639.svg)</a>
 <a href="https://www.mysql.com/">![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)</a>
+<a href="https://laravel.com/">
+    ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
+</a>
+<a href="https://react.dev/">
+    ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+</a>
 
 ## Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6KX1A1) </br>
